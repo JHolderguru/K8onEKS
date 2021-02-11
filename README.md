@@ -19,5 +19,8 @@ kubectl get node
 
 kubectl get pod
 
-kubectl get ns ```
+kubectl get ns
+
+eksctl delete cluster --name
+ ```
 ####
