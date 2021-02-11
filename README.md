@@ -4,4 +4,6 @@
 
 #### Install kubctl and eksctl com
 
-#### 
+#### kube version to verify
+
+####
